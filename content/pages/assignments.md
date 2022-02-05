@@ -9,9 +9,30 @@ Problem Sets
 
 There are 6 problem sets covering the units in class. We strongly encourage students to work in teams. The final solution must be your own work.
 
-| ASSIGNMENTS | TOPICS |
-| --- | --- |
-| Problem Set 1 | Order of Magnitude Estimation; Energy to Generate Electricity and to Separate CO2 from a Gas Stream; A First Order Model of a Power Plant ([PDF]({{< baseurl >}}/resources/problem_set_01)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1
+{{< tdclose >}}
+{{< tdopen >}}
+Order of Magnitude Estimation; Energy to Generate Electricity and to Separate CO2 from a Gas Stream; A First Order Model of a Power Plant ([PDF]({{< baseurl >}}/resources/problem_set_01))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Some Caveats
 ------------

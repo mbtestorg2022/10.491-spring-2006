@@ -66,31 +66,253 @@ The Personal Evaluation grade is a subjective evaluation of each group member an
 
 It is to your benefit neither to miss these design meetings, nor to come to them and just sit in. Also, after you submit the report, you will be able to give us your input on the performance of your group members by filling out an evaluation form. This evaluation will be held in confidence, and it will be taken into account for your subjective evaluation.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Design Report | 75% |
-| Problem Sets | 12.5% |
-| Personal Evaluation | 12.5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Report
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Personal Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: Global Climate and the CO2 Problem |  |
-| 2 | Course Overview and Process Design |  |
-| 3 | Literature Sources for Processes: How to Find Information | Students assigned to design groups |
-| 4 | Process Flowsheet Models: An Introduction to AspenPlus® |  |
-| 5 | Process Engineering Economics: Project Evaluation |  |
-| 6 | Physical Property Models: Which One is Best? |  |
-| 7 | How CO2 is Formed: Combustion Basics | Progress report due |
-| 8 | Evaluation of Alternative CO2 Removal Schemes: Comparing Efficiencies |  |
-| 9 | Hierarchical Design Methodology: Reactor Modeling |  |
-| 10 | Process Flowsheet Models: Reactor Modeling in AspenPlus® | Progress report due |
-| 11 | Process Flowsheet Models: Introduction to Analysis Tools | Problem set 1 assigned |
-| 12 | Chemical Process Safety: HAZOP Analyses |  |
-| 13 | Capital Cost Estimates: Introduction to CAPCOST Software Program |  |
-| 14-27 | Team Project Work | Problem set 1 due in Lec #15  {{< br >}}  {{< br >}}Progress report due in Lec #14, #18, and #22  {{< br >}}  {{< br >}}Final report due in Lec #26 |
-| 28-30 | Student Presentations | Presentations due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Global Climate and the CO2 Problem
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview and Process Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Literature Sources for Processes: How to Find Information
+{{< tdclose >}}
+{{< tdopen >}}
+Students assigned to design groups
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Process Flowsheet Models: An Introduction to AspenPlus®
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Process Engineering Economics: Project Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Physical Property Models: Which One is Best?
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+How CO2 is Formed: Combustion Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluation of Alternative CO2 Removal Schemes: Comparing Efficiencies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Hierarchical Design Methodology: Reactor Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Process Flowsheet Models: Reactor Modeling in AspenPlus®
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Process Flowsheet Models: Introduction to Analysis Tools
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Process Safety: HAZOP Analyses
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Capital Cost Estimates: Introduction to CAPCOST Software Program
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-27
+{{< tdclose >}}
+{{< tdopen >}}
+Team Project Work
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due in Lec #15  
+  
+Progress report due in Lec #14, #18, and #22  
+  
+Final report due in Lec #26
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28-30
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -48,18 +48,135 @@ This class is about process design. One of the most important features of soluti
 
 The design problems are different for each team. Each team is sworn to secrecy about its project so that the solutions will be unique and original. The problem topics are listed below along with a brief memorandum.
 
-| TEAMS | DESIGN PROBLEMS |
-| --- | --- |
-| 1 | Ammonia Stripping ([PDF]({{< baseurl >}}/resources/group_1)) |
-| 2 | IGCC As a Way to Control Hg, NOx, and SOx ([PDF]({{< baseurl >}}/resources/group_2)) |
-| 3 | Assessment of the IGCC Concept ([PDF]({{< baseurl >}}/resources/group_3)) |
-| 4 | Amine Stripping ([PDF]({{< baseurl >}}/resources/group_4)) |
-| 5 | Retrofitting Options for CO2 Capture ([PDF]({{< baseurl >}}/resources/group_5)) |
-| 6 | Chemical Looping Combustion ([PDF]({{< baseurl >}}/resources/group_6)) |
-| 7 | CO2 Liquefaction ([PDF]({{< baseurl >}}/resources/group_7)) |
-| 8 | Oxyfiring ([PDF]({{< baseurl >}}/resources/group_8)) |
-| 9 | Polygeneration ([PDF]({{< baseurl >}}/resources/group_9)) |
-| 10 | Water Gas Shift Reaction ([PDF]({{< baseurl >}}/resources/group_10)) |
-| 11 | Retrofitting of Existing Power Plants ([PDF]({{< baseurl >}}/resources/group_11)) |
-| 12 | Chemical Looping Combustor ([PDF]({{< baseurl >}}/resources/group_12)) |
-| 13 | Amine Stripping Alternatives ([PDF]({{< baseurl >}}/resources/group_13))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEAMS
+{{< thclose >}}
+{{< thopen >}}
+DESIGN PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Ammonia Stripping ([PDF]({{< baseurl >}}/resources/group_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+IGCC As a Way to Control Hg, NOx, and SOx ([PDF]({{< baseurl >}}/resources/group_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Assessment of the IGCC Concept ([PDF]({{< baseurl >}}/resources/group_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Amine Stripping ([PDF]({{< baseurl >}}/resources/group_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Retrofitting Options for CO2 Capture ([PDF]({{< baseurl >}}/resources/group_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Looping Combustion ([PDF]({{< baseurl >}}/resources/group_6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+CO2 Liquefaction ([PDF]({{< baseurl >}}/resources/group_7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oxyfiring ([PDF]({{< baseurl >}}/resources/group_8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Polygeneration ([PDF]({{< baseurl >}}/resources/group_9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Water Gas Shift Reaction ([PDF]({{< baseurl >}}/resources/group_10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Retrofitting of Existing Power Plants ([PDF]({{< baseurl >}}/resources/group_11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Looping Combustor ([PDF]({{< baseurl >}}/resources/group_12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Amine Stripping Alternatives ([PDF]({{< baseurl >}}/resources/group_13))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
